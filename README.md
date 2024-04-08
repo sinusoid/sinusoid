@@ -5,7 +5,7 @@
 
 [Sinusoid Pty Ltd](https://store.sinusoid.com) is an electronics manufacturing and software development company based in Sydney, Australia. It designs and manufactures rotary position encoders.
 
-Encoder output types are absolute analog, both voltage and current loop (4-20mA); Pulse Width Modulation (PWM); Quadrature. 
+Encoder output types are absolute analog, both voltage and current loop (4-20mA); Pulse Width Modulation (PWM); incremental Quadrature. 
 
 <!---
 
