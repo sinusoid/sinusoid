@@ -1,9 +1,12 @@
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Sinusoid Pty Ltd")
+<img src="https://github.com/sinusoid/sinusoid/blob/main/assets/media/LogoColorTextBelowTrans-200.png" width="100">
 
-Sinusoid Pty Ltd is an electronics manufacturing and software development company based in Sydney, Australia. It designs and manufactures rotary position encoders.
+## Sinusoid encoders
+
+[Sinusoid Pty Ltd](https://store.sinusoid.com) is an electronics manufacturing and software development company based in Sydney, Australia. It designs and manufactures rotary position encoders.
+
+Encoder output types are absolute analog, both voltage and current loop (4-20mA); Pulse Width Modulation (PWM); Quadrature. 
 
 <!---
-sinusoid/sinusoid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
